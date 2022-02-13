@@ -472,7 +472,7 @@ translate english Katrina_1_label_3bbb4635:
 translate english Katrina_1_label_159f13c6:
 
     # Don "So that when I get back, you won't even be here."
-    Don "When I get back it be better if you were gone, for your sake."
+    Don "When I get back, it would be better if you were gone, for your sake."
 
 # game/logic/events/Katrina.rpy:134
 translate english Katrina_1_label_ed803a1d:
